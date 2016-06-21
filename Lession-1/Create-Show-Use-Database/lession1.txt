@@ -1,0 +1,44 @@
+1.How to create The Database in Mysql ?
+			Syntax :
+					CREATE DATABASE <databasename>;
+			Example:
+					CREATE DATABASE rrpathi;
+
+							or
+					create database rrpathi;
+			Explanation:
+
+					This Syntax is used to Create a New Database
+
+
+2.How to view The created Database ?
+		
+			Syntax:
+					SHOW DATABASES;
+			Example:
+					SHOW DATABASES;
+					    or
+					 show databases;
+			Explanation:
+			          This Syntax is used to  List the all Databases
+			          	ex:
+			          			1.demo
+			          			2.bvc
+			          			3.rrpathi
+
+3.How to use The Particular Database?	
+				Syntax:
+						USE <Database name>;	// Use the Particular Database You Want to use;
+
+						use rrpathi;            //rrpathi database will be used
+
+
+
+                                                                            
+							  Lession  2:
+	
+                                                               How to create Table?
+
+
+
+
